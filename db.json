@@ -1,5 +1,5 @@
 {
-    projectCardRemoteList: [
+    "projectCardRemoteList": [
         {
             title: "FRN Website",
             image: "images/FoodRecoveryNetworkBag.png",
