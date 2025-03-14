@@ -8,39 +8,39 @@
             "link":"https://apn0017.wixstudio.com/1543"
         },
         {
-            title: "This",
-            image: "images/FoodRecoveryNetworkBag.png",
-            alt:"FRN Graphic",
-            description:" ",
-            link:"https://apn0017.wixstudio.com/1543",
+            "title": "This",
+            "image": "images/FoodRecoveryNetworkBag.png",
+            "alt":"FRN Graphic",
+            "description":" ",
+            "link":"https://apn0017.wixstudio.com/1543"
         },    
         {
-            title: "Is",
-            image: "images/FoodRecoveryNetworkBag.png",
-            alt:"FRN Graphic",
-            description:" ",
-            link:"https://apn0017.wixstudio.com/1543",
+            "title": "Is",
+            "image": "images/FoodRecoveryNetworkBag.png",
+            "alt":"FRN Graphic",
+            "description":" ",
+            "link":"https://apn0017.wixstudio.com/1543"
         },    
         {
-            title: "From",
-            image: "images/FoodRecoveryNetworkBag.png",
-            alt:"FRN Graphic",
-            description:" ",
-            link:"https://apn0017.wixstudio.com/1543",
+            "title": "From",
+            "image": "images/FoodRecoveryNetworkBag.png",
+            "alt":"FRN Graphic",
+            "description":" ",
+            "link":"https://apn0017.wixstudio.com/1543"
         },    
         {
-            title: "Remote",
-            image: "images/FoodRecoveryNetworkBag.png",
-            alt:"FRN Graphic",
-            description:" ",
-            link:"https://apn0017.wixstudio.com/1543",
+            "title": "Remote",
+            "image": "images/FoodRecoveryNetworkBag.png",
+            "alt":"FRN Graphic",
+            "description":" ",
+            "link":"https://apn0017.wixstudio.com/1543"
         },    
         {
-            title: "Server",
-            image: "images/FoodRecoveryNetworkBag.png",
-            alt:"FRN Graphic",
-            description:" ",
-            link:"https://apn0017.wixstudio.com/1543",
-        }   
+            "title": "Storage",
+            "image": "images/FoodRecoveryNetworkBag.png",
+            "alt":"FRN Graphic",
+            "description":" ",
+            "link":"https://apn0017.wixstudio.com/1543"
+        }  
     ]
 }
